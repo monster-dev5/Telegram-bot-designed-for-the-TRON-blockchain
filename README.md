@@ -42,7 +42,7 @@ Go to you bot on telegram and send /start to get the usage instructions.
 - Use /swap <currency1> <currency2> <amount> to swap tokens. (inprogress/need fix)
 - Use /getmemecoininfo <address> to get the info of the memecoins.
 - Use /getwalletinfo <address> to get your wallet info.
-- Use /getwallettransfers <address> <token_address> to get an wallet address's tokens transfers.
+- Use /getwallettransfers <address>  <token_address> to get an wallet address's tokens transfers.
 
 ## Contributing
 
