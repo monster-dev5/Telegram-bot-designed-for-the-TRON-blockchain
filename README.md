@@ -49,3 +49,5 @@ Go to you bot on telegram and send /start to get the usage instructions.
 If you'd like to contribute to this project, please submit a pull request with your changes. You can also report any issues you encounter.
 
 Feel free to add or remove sections as necessary to fit your project's needs!
+
+If you have any question with this project, feel free to reach out.
