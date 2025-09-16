@@ -51,3 +51,4 @@ If you'd like to contribute to this project, please submit a pull request with y
 Feel free to add or remove sections as necessary to fit your project's needs!
 
 If you have any question with this project, feel free to reach out.
+Thank you.
