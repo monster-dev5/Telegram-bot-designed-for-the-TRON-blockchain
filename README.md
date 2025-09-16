@@ -12,7 +12,7 @@
 * aiosqlite
 * httpcore[asyncio]
 * tronpy
-
+* proxy vpn
 You can refer to your `requirements.txt` file for this.
 
 ## Installation
